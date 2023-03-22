@@ -68,3 +68,7 @@ make qemu
 ```
 
 使用ctrl-a x退出
+
+
+
+注意gitignore qemu 太大了
